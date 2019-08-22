@@ -146,8 +146,8 @@
                     <systemProperties>
                         <property>
                             <name>allure.results.directory</name>
-                            <value>${project.build.directory}/allure-results</value>
-                            <!--<value>C:/Program Files (x86)/Jenkins/workspace/MyTest Citypizza/allure-results</value>-->
+                            <!--<value>${project.build.directory}/allure-results</value>-->
+                            <value>C:/Program Files (x86)/Jenkins/workspace/MyTest Citypizza/allure-results</value>
                         </property>
                     </systemProperties>
                 </configuration>

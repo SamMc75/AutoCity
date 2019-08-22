@@ -1,4 +1,4 @@
-Feature: Начало тестирования
+Feature: Start Testing
 
   @1
   Scenario: Проверка попадания на страницу категории Пицца
